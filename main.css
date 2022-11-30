@@ -1,0 +1,27 @@
+
+.navBar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display:inline;
+}
+
+
+*{
+    background-color: rgb(56, 56, 56);
+}
+.top-card{
+    background-color: rgb(56, 56, 56);
+    color:white;
+
+}
+
+.f1{
+    /*'Major Mono Display'*/
+    font-family: 'Roboto Mono', monospace;
+    font-size: xx-large;
+
+}
+.orange{
+    color:orange;
+}
