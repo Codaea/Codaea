@@ -1,10 +1,8 @@
-Hello! I am Coda, I am a self taught coder with a love for cooking. I mostly work on personal projects. I have experience with 
-- minecraft plugin development
-- flask web framework
-- SQL
-- physical microcontrollers and SBCs
+# Hi! I'm, Dakota Roth!
 
-and im a a mini jack of all trades.
+I'm a linux enthusiast, and computer shenanigan haver.
+
+I like writing software, solving meaningless problems, and just in general enjoying the process of coding.
 
 "A jack of all trades is a master of none, but a jack of all trades is better than none." - Someone
 
